@@ -16,7 +16,7 @@ Activities carried out to make sure the data is fit for analyses;
 - Handling missing and outlier values
 - Reformatting - Correcting data format and accurate data types
 ###  Exploratory Data Analysis
-EDA and exploring the sales data to answer the main question such as;
+EDA and exploring the data to answer the main question such as;
 - What is the correlation between various feature in the dataset?
 - Does patient weight affect the outcome?
 - What is the relationship between Blood pressure and Glucose level with the outcome?
